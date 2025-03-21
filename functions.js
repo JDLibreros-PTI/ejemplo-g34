@@ -1,3 +1,3 @@
 function saludar_alumnos(){
-    alert("Hola Alumnos de la corte 34");
+    alert("Hola alumnos de la corte 34");
 }
