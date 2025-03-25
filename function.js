@@ -1,9 +1,6 @@
 function saludar_a_todos(){
-console.log("Hola como les va");
-<<<<<<< HEAD
+console.log("Como les va ")
 alert("Hola como van ")
-=======
-alert("Hola como me les va ")
->>>>>>> develop
+
 
 }
