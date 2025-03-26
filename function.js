@@ -1,5 +1,4 @@
-function saludar_a_todos(){
-console.log("Hola como les va");
-alert("Hola como me les va ")
+function saludar_todos(){
+alert("Hola como me les va corte 34")
 
 }
